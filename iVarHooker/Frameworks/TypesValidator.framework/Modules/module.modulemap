@@ -1,0 +1,6 @@
+framework module TypesValidator {
+  umbrella header "TypesValidator.h"
+
+  export *
+  module * { export * }
+}

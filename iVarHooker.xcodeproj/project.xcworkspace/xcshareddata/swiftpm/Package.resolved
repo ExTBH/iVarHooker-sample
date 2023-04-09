@@ -1,0 +1,13 @@
+{
+  "pins" : [
+    {
+      "identity" : "flex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ExTBH/FLEX",
+      "state" : {
+        "revision" : "61c78bcb1238213963deb89b0e5a416a77afa28a"
+      }
+    }
+  ],
+  "version" : 2
+}
